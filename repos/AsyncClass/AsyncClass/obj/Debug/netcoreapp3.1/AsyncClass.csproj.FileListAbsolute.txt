@@ -1,0 +1,14 @@
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\bin\Debug\netcoreapp3.1\AsyncClass.exe
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\bin\Debug\netcoreapp3.1\AsyncClass.deps.json
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\bin\Debug\netcoreapp3.1\AsyncClass.runtimeconfig.json
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\bin\Debug\netcoreapp3.1\AsyncClass.runtimeconfig.dev.json
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\bin\Debug\netcoreapp3.1\AsyncClass.dll
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\bin\Debug\netcoreapp3.1\AsyncClass.pdb
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\obj\Debug\netcoreapp3.1\AsyncClass.csproj.AssemblyReference.cache
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\obj\Debug\netcoreapp3.1\AsyncClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\obj\Debug\netcoreapp3.1\AsyncClass.AssemblyInfoInputs.cache
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\obj\Debug\netcoreapp3.1\AsyncClass.AssemblyInfo.cs
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\obj\Debug\netcoreapp3.1\AsyncClass.csproj.CoreCompileInputs.cache
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\obj\Debug\netcoreapp3.1\AsyncClass.dll
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\obj\Debug\netcoreapp3.1\AsyncClass.pdb
+C:\Users\sabirmg\source\repos\AsyncClass\AsyncClass\obj\Debug\netcoreapp3.1\AsyncClass.genruntimeconfig.cache

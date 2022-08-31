@@ -1,0 +1,14 @@
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\bin\Debug\netcoreapp3.1\ClassPractiseAsync.exe
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\bin\Debug\netcoreapp3.1\ClassPractiseAsync.deps.json
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\bin\Debug\netcoreapp3.1\ClassPractiseAsync.runtimeconfig.json
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\bin\Debug\netcoreapp3.1\ClassPractiseAsync.runtimeconfig.dev.json
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\bin\Debug\netcoreapp3.1\ClassPractiseAsync.dll
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\bin\Debug\netcoreapp3.1\ClassPractiseAsync.pdb
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\obj\Debug\netcoreapp3.1\ClassPractiseAsync.csproj.AssemblyReference.cache
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\obj\Debug\netcoreapp3.1\ClassPractiseAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\obj\Debug\netcoreapp3.1\ClassPractiseAsync.AssemblyInfoInputs.cache
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\obj\Debug\netcoreapp3.1\ClassPractiseAsync.AssemblyInfo.cs
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\obj\Debug\netcoreapp3.1\ClassPractiseAsync.csproj.CoreCompileInputs.cache
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\obj\Debug\netcoreapp3.1\ClassPractiseAsync.dll
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\obj\Debug\netcoreapp3.1\ClassPractiseAsync.pdb
+C:\Users\sabirmg\source\repos\ClassPractiseAsync\ClassPractiseAsync\obj\Debug\netcoreapp3.1\ClassPractiseAsync.genruntimeconfig.cache
