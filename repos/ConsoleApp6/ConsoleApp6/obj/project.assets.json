@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sabirmg\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+      "projectUniqueName": "C:\\Users\\sabirmg\\Desktop\\Class\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
       "projectName": "ConsoleApp6",
-      "projectPath": "C:\\Users\\sabirmg\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+      "projectPath": "C:\\Users\\sabirmg\\Desktop\\Class\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
       "packagesPath": "C:\\Users\\sabirmg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sabirmg\\source\\repos\\ConsoleApp6\\ConsoleApp6\\obj\\",
+      "outputPath": "C:\\Users\\sabirmg\\Desktop\\Class\\repos\\ConsoleApp6\\ConsoleApp6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

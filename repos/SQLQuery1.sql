@@ -1,0 +1,2 @@
+use Northwind
+select 'new Product { ProductID = '+cast(ProductID as nvarchar) +', ProductName= "'+ProductName+'", CategoryID = '+cast(CategoryID as nvarchar) +', Discontinued = '+ CAST(Discontinued as nvarchar)+', QuantityPerUnit = "'+cast(QuantityPerUnit as nvarchar) +'", ReorderLevel = '+cast(ReorderLevel as nvarchar) +', SupplierID = '+cast(SupplierID as nvarchar) +', UnitPrice = '+cast(UnitPrice as nvarchar) +'F,UnitsInStock = '+cast(UnitsInStock as nvarchar) +',UnitsOnOrder= '+cast(UnitsOnOrder as nvarchar) +' },' from Products order by 1
