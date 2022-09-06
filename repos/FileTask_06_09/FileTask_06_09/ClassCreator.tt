@@ -1,0 +1,52 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+\
+
+<#if (!Directory.Exists(Path.Combine(System.IO.Directory.GetCurrentDirectory(), @"..\..\..\Models")))
+{
+    Console.WriteLine("yoxdur");
+}
+else
+{
+    Console.WriteLine("Var");
+}#>
+
+<#const string connection = "server=localhost;database=Northwind;trusted_connection=true;";
+SqlConnection con = new SqlConnection(connection);
+//con.ConnectionString = connection;
+
+
+SqlCommand cmd = new SqlCommand("select ProductName, ProductId from Products", con);
+if (con.State == System.Data.ConnectionState.Closed)
+    con.Open();
+
+SqlDataReader dr = cmd.ExecuteReader();
+while (dr.Read())
+{
+    Console.WriteLine($"{dr["ProductId"]} -> {dr["ProductName"]}");
+}
+
+dr.Close();
+con.Close();#>
+
+<#
+int i = 1;
+while (i < 11)
+{#>
+    
+namespace FileExample; 
+public class Category<#=i#>
+{
+<#
+     for(int x = 0; x <10; x++){#>
+      public int PropertyName<#=x#> { get; set; }
+    <# }
+#>
+}
+    <#i++;
+}
+#>

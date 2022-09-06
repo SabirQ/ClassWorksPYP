@@ -1,0 +1,14 @@
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\bin\Debug\netcoreapp3.1\Console_05_09.exe
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\bin\Debug\netcoreapp3.1\Console_05_09.deps.json
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\bin\Debug\netcoreapp3.1\Console_05_09.runtimeconfig.json
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\bin\Debug\netcoreapp3.1\Console_05_09.runtimeconfig.dev.json
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\bin\Debug\netcoreapp3.1\Console_05_09.dll
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\bin\Debug\netcoreapp3.1\Console_05_09.pdb
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\obj\Debug\netcoreapp3.1\Console_05_09.csproj.AssemblyReference.cache
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\obj\Debug\netcoreapp3.1\Console_05_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\obj\Debug\netcoreapp3.1\Console_05_09.AssemblyInfoInputs.cache
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\obj\Debug\netcoreapp3.1\Console_05_09.AssemblyInfo.cs
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\obj\Debug\netcoreapp3.1\Console_05_09.csproj.CoreCompileInputs.cache
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\obj\Debug\netcoreapp3.1\Console_05_09.dll
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\obj\Debug\netcoreapp3.1\Console_05_09.pdb
+C:\Users\sabirmg\Desktop\Class\repos\Console_05_09\Console_05_09\obj\Debug\netcoreapp3.1\Console_05_09.genruntimeconfig.cache
