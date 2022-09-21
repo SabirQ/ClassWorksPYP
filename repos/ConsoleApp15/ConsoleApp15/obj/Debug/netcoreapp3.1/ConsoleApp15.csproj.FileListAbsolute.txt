@@ -1,0 +1,16 @@
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.AssemblyInfoInputs.cache
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.AssemblyInfo.cs
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.exe
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.deps.json
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.runtimeconfig.json
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.runtimeconfig.dev.json
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.dll
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.pdb
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.csproj.CopyComplete
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.dll
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.pdb
+C:\Users\sabirmg\Desktop\Class\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/vOiDQvfBwKQfpZ91CwexoLiYrM0BVSiYxMgQPL/zDrMP3tFCKU4vsz+zsP5ntPKAj5Q7m2dRyXAW5fEz9LdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sabirmg\\Desktop\\Class\\repos\\ConsoleApp15\\ConsoleApp15\\ConsoleApp15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabirmg\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

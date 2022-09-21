@@ -1,0 +1,128 @@
+﻿
+@model HomeVM
+
+<section id="main-products" class="main-products">
+    <div class="container main-products__container">
+        <div class="row main-products__container__row">
+            <div class="main-products__container__row__title">
+                <h2>
+                    Our Phones
+                </h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing
+                </p>
+            </div>
+            <div class=" owl-carousel owl-theme main-products__container__row__carousel">
+                @foreach (var item in Model.Phones)
+                {
+                        <div class="item">
+                            <div class="product-prototype ">
+                                <a asp-controller="Example" asp-action="index" class="product-prototype__image">
+                                    <cus-link 
+                                    <img src="~/assets/images/products/product-1.webp" alt="product"
+                                 class="product-prototype__image__img _img-pro">
+                                </a>
+                                <div class="product-prototype__info">
+                                    <h5 class="product-prototype__info__name">
+                                    <a href="single-product.html" class="product-prototype__info__name__link _name-pro">
+                                        @item.Brand
+                                    </a>
+                                        <a href="single-product.html" class="product-prototype__info__name__link _name-pro">
+                                            @item.Model
+                                        </a>
+                                    <a href="single-product.html" class="product-prototype__info__name__link _name-pro">
+                                        @Model.Categories.FirstOrDefault(x=>x.Id==item.CategoryId)?.Name
+                                    </a>
+                                    </h5>
+                                    <span class="product-prototype__info__actual-price _price-pro">
+                                        $<span>@item.Price</span>
+                                    </span>
+                                    
+                                </div>
+                                <div class="product-prototype__buttons">
+                                    <button type="button" class="product-prototype__buttons__btn-wishlist "
+                                    data-bs-toggle="tooltip" data-bs-placement="top"
+                                    data-bs-custom-class="custom-tooltip" title="Wishlist">
+                                        <i class="fa-regular fa-heart"></i>
+                                    </button>
+                                    <button type="button" class="product-prototype__buttons__btn-chart _btn-pro" id="pro1"
+                                    data-bs-toggle="tooltip" data-bs-placement="top"
+                                    data-bs-custom-class="custom-tooltip" title="Add To Chart">
+                                        <i class="fa-solid fa-bag-shopping"></i>
+                                    </button>
+                                    <button type="button" class="product-prototype__buttons__btn-view _quick-btn "
+                                    data-bs-toggle="tooltip" data-bs-placement="top"
+                                    data-bs-custom-class="custom-tooltip" title="Quick View">
+                                        <i class="fa-regular fa-eye"></i>
+                                    </button>
+                                </div>
+
+                            </div>
+                        </div>
+                    
+                }
+            </div>
+        </div>
+    </div>
+    <div class="container main-products__container">
+        <div class="row main-products__container__row">
+            <div class="main-products__container__row__title">
+                <h2>
+                    Our Computers
+                </h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing
+                </p>
+            </div>
+            <div class=" owl-carousel owl-theme main-products__container__row__carousel">
+                @foreach (var item in Model.Computers)
+                {
+                    <div class="item">
+                        <div class="product-prototype ">
+                            <a href="single-product.html" class="product-prototype__image">
+                                <img src="~/assets/images/products/product-1.webp" alt="product"
+                                 class="product-prototype__image__img _img-pro">
+                            </a>
+                            <div class="product-prototype__info">
+                                <h5 class="product-prototype__info__name">
+                                    <a href="single-product.html" class="product-prototype__info__name__link _name-pro">
+                                        @item.Brand
+                                    </a>
+                                    <a href="single-product.html" class="product-prototype__info__name__link _name-pro">
+                                        @item.Model
+                                    </a>
+                                    <a href="single-product.html" class="product-prototype__info__name__link _name-pro">
+                                        @Model.Categories.FirstOrDefault(x=>x.Id==item.CategoryId)?.Name
+                                    </a>
+                                </h5>
+                                <span class="product-prototype__info__actual-price _price-pro">
+                                    $<span>@item.Price</span>
+                                </span>
+
+                            </div>
+                            <div class="product-prototype__buttons">
+                                <button type="button" class="product-prototype__buttons__btn-wishlist "
+                                    data-bs-toggle="tooltip" data-bs-placement="top"
+                                    data-bs-custom-class="custom-tooltip" title="Wishlist">
+                                    <i class="fa-regular fa-heart"></i>
+                                </button>
+                                <button type="button" class="product-prototype__buttons__btn-chart _btn-pro" id="pro1"
+                                    data-bs-toggle="tooltip" data-bs-placement="top"
+                                    data-bs-custom-class="custom-tooltip" title="Add To Chart">
+                                    <i class="fa-solid fa-bag-shopping"></i>
+                                </button>
+                                <button type="button" class="product-prototype__buttons__btn-view _quick-btn "
+                                    data-bs-toggle="tooltip" data-bs-placement="top"
+                                    data-bs-custom-class="custom-tooltip" title="Quick View">
+                                    <i class="fa-regular fa-eye"></i>
+                                </button>
+                            </div>
+
+                        </div>
+                    </div>
+
+                }
+            </div>
+        </div>
+    </div>
+</section>

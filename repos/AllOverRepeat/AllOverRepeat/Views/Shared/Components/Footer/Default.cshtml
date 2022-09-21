@@ -1,0 +1,23 @@
+﻿@model List<string>
+
+<ul class="cus-footer__top__container__row__column__list">
+
+    <li class="cus-footer__top__container__row__column__list__item">
+        <i class="fa-solid fa-location-dot"></i>
+       @Model[0]
+    </li>
+    <li class="cus-footer__top__container__row__column__list__item">
+        <i class="fa-regular fa-envelope"></i>
+        Mail Us:
+        <a href="#" class="cus-footer__top__container__row__column__list__item__link">
+            @Model[1]
+        </a>
+    </li>
+    <li class="cus-footer__top__container__row__column__list__item">
+        <i class="fa-solid fa-phone"></i>
+        Phone:
+        <a href="#" class="cus-footer__top__container__row__column__list__item__link">
+            @Model[2]
+        </a>
+    </li>
+</ul>
